@@ -7,5 +7,6 @@ from keras.api.utils import to_categorical
 from keras.api.datasets import mnist
 
 import tensorflow
+from tensorflow.keras import layers
 
 print(tensorflow.__version__)
